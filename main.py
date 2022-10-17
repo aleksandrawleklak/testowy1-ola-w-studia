@@ -1,3 +1,2 @@
-
-if __name__ == "__main__":
-    pass
+x=input()
+print(int(x)*int(x))
